@@ -1,2 +1,2 @@
-# personal_site
-My personal site at http://www.simmons.software/
+# Personal Site
+My personal site at http://www.simmons.software/ - pretty simple.

@@ -1,0 +1,15 @@
+<head>
+<title>Joseph Simmons - Freelance coder</title>
+<link href='https://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<h1>Joseph Simmons</h1>
+<p>Hi. I'm a Ruby/Rails developer from London.</p>
+<p>I come from an SEO background, which has given me plenty of experience writing scrapers and bots. I've previously built API wrappers and pseudo-APIs for major UK banks. </p>
+<p>I've also worked heavily in Bitcoin, building a CRM from the ground up that handled all aspects of the sales process, including automating customer service.</p>
+<p>I love projects of all shapes and sizes, but especially automation & web-apps. I have experience in Ruby, Rails, Sinatra, Git, Heroku, PHP, Jquery, JS, HTML, and CSS. </p>
+<br />
+<p>My standard rate is &#163;25/hour. If you'd like something built, get in touch through Skype. My user ID is <strong>moocowsmoo</strong>.</p>
+<p><a href="http://www.github.com/eoJ1">My Github profile</a></p>
+</body> 
