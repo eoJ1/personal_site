@@ -1,2 +1,2 @@
 # Personal Site
-My personal site at http://www.simmons.software/ - pretty simple.
+My personal site at http://www.simmons.digital/ - pretty simple.
